@@ -1,0 +1,5 @@
+C:\Users\sawaiz.mirza\OneDrive - Kaleida Ltd\Sawaiz\Training\Projects\LibraryManagement\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.deps.json
+C:\Users\sawaiz.mirza\OneDrive - Kaleida Ltd\Sawaiz\Training\Projects\LibraryManagement\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.dll
+C:\Users\sawaiz.mirza\OneDrive - Kaleida Ltd\Sawaiz\Training\Projects\LibraryManagement\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfoInputs.cache
+C:\Users\sawaiz.mirza\OneDrive - Kaleida Ltd\Sawaiz\Training\Projects\LibraryManagement\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfo.cs
+C:\Users\sawaiz.mirza\OneDrive - Kaleida Ltd\Sawaiz\Training\Projects\LibraryManagement\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.csprojAssemblyReference.cache
